@@ -159,4 +159,4 @@ if __name__ == '__main__':
         loop.run_forever()
     finally:
         loop.close()
-        print("PLC Data Server stopped")
+        print("Stopped")
